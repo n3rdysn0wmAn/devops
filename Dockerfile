@@ -1,4 +1,4 @@
-FROM hshar/ubuntunew1212
+FROM vamsipattamatta/devops:mayrls
 
 ADD Blob /var/www/html/
 
